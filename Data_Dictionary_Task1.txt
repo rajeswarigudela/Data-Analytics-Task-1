@@ -1,0 +1,8 @@
+Data Dictionary- Task 1
+
+1.Date
+  Type:Datetime
+  Description:Represents the month and year of airline passengers.
+2.passengers
+  Type:Integer
+  Description:Total number of airline passengers for that month.
